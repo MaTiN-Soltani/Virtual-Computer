@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started
 
 This is a simulation to show how CPUs and GPUs are managed by their priorities.
 
