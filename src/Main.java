@@ -15,6 +15,6 @@ public class Main {
         vc.register(gpu1);
         vc.register(gpu2);
 
-        vc.start(1000, 500);
+        vc.start(1000, 1000);
     }
 }
